@@ -1,1 +1,1 @@
-print("No info!!!")
+answer, real_answer = substraction()
